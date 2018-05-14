@@ -3,9 +3,9 @@ A repo showing how to create a single page application using Vuejs JavaScript fr
 
 ## Installation
 * Clone the repo using **git clone**
-* Run **npm install**
-* Run **npm install --g vue-cli** to install Vue CLI (Command Line Interface)
+* Install **Nodejs** on your computer in order to access npm command
 * Run **vue init vuetifyjs/webpack-advanced meetup-application** to install vuetify material design package, meetup-application is the name of the application that will be created via the command line
+* Run **npm install --g vue-cli** to install Vue CLI (Command Line Interface)
 * Run **npm run dev** to start the server and wait for the bowser to load at **localhost:8080**
 * Login credentials are **admin@admin.com** and password is **123456**
 
