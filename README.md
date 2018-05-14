@@ -10,7 +10,9 @@ A repo showing how to create a single page application using Vuejs JavaScript fr
 * Login credentials are **admin@admin.com** and password is **123456**
 
 ## Depedencies
-Vuetify package -[Vuetify](https://vuetifyjs.com)
+* Vuetify package -[Vuetify](https://vuetifyjs.com)
+* Nodejs server - [Nodejs](https://nodejs.org)
+* Firebase development platform-  [Firebase](https://firebase.google.com)
 
 ## License
 This program is free software published under the terms of the GNU [Lesser General Public License](http://www.gnu.org/copyleft/lesser.html).
