@@ -1,6 +1,6 @@
 # Meeting-organization-app-in-vuejs-and-firebase
 
-# Depedencies
+## Depedencies
 Vuetify Material design package -[Vuetify](https://vuetifyjs.com)
 
 
