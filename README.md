@@ -1,7 +1,8 @@
 # Meeting-organization-app-in-vuejs-and-firebase
+A repo showing how to create a single page application using Vuejs JavaScript framework, Vuetfify Material design package and Firebase (for backend and authentication).
 
 ## Depedencies
-Vuetify Material design package -[Vuetify](https://vuetifyjs.com)
+Vuetify package -[Vuetify](https://vuetifyjs.com)
 
 
 
